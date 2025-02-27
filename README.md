@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Muskankori22/Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0437-path-sum-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0437-path-sum-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Muskankori22/Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0437-path-sum-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0101-symmetric-tree) |
+| [0437-path-sum-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0437-path-sum-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
