@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0739-daily-temperatures](https://github.com/Muskankori22/Leetcode_practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Muskankori22/Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -60,8 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Muskankori22/Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0101-symmetric-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
