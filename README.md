@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Muskankori22/Leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Muskankori22/Leetcode_practice/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Muskankori22/Leetcode_practice/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Muskankori22/Leetcode_practice/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Muskankori22/Leetcode_practice/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/Muskankori22/Leetcode_practice/tree/master/0937-online-stock-span) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Muskankori22/Leetcode_practice/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Muskankori22/Leetcode_practice/tree/master/0937-online-stock-span) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0015-3sum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Muskankori22/Leetcode_practice/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
