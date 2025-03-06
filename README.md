@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Muskankori22/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Muskankori22/Leetcode_practice/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Muskankori22/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Muskankori22/Leetcode_practice/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Muskankori22/Leetcode_practice/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Muskankori22/Leetcode_practice/tree/master/0937-online-stock-span) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Muskankori22/Leetcode_practice/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Muskankori22/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Muskankori22/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muskankori22/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Array
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Muskankori22/Leetcode_practice/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Muskankori22/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Muskankori22/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Muskankori22/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Muskankori22/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Muskankori22/Leetcode_practice/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Muskankori22/Leetcode_practice/tree/master/0937-online-stock-span) |
 ## Two Pointers
@@ -53,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Muskankori22/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Muskankori22/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0567-permutation-in-string) |
