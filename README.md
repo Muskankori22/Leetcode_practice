@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Muskankori22/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Muskankori22/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muskankori22/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Muskankori22/Leetcode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Muskankori22/Leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Muskankori22/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Muskankori22/Leetcode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Muskankori22/Leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Muskankori22/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Muskankori22/Leetcode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Muskankori22/Leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0226-invert-binary-tree) |
