@@ -14,40 +14,20 @@
  * }
  */
 class Solution {
-    public boolean sametree(TreeNode p,TreeNode q)
+    public boolean findSymmetric(TreeNode root1,TreeNode root2)
     {
-        if(p==null && q==null)
+        if(root1==null && root2==null)
         {
             return true;
         }
-        if(p==null || q==null)
+        if(root1==null || root2==null)
         {
             return false;
         }
-        if(p.val!=q.val)
-        {
-            return false;
-        }
-        return sametree(p.left,q.left) && sametree(p.right,q.right);
-    }
-    public TreeNode symetric(TreeNode root)
-    {
-        if(root==null)
-        {
-            return root;
-        }
-        TreeNode l = root.left;
-        TreeNode r = root.right;
-        root.left = symetric(r);
-        root.right = symetric(l);
-        return root;
+        return root1.val == root2.val && findSymmetric(root1.left,root2.right) && findSymmetric(root1.right,root2.left);
+        
     }
     public boolean isSymmetric(TreeNode root) {
-        if(root==null)
-        {
-            return true;
-        }
-          root.left=symetric(root.left);
-         return sametree(root.left,root.right);
+        return findSymmetric(root,root);
     }
 }
