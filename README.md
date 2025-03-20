@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Muskankori22/Leetcode_practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Muskankori22/Leetcode_practice/tree/master/0173-binary-search-tree-iterator) |
+| [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [0937-online-stock-span](https://github.com/Muskankori22/Leetcode_practice/tree/master/0937-online-stock-span) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muskankori22/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
+| [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Muskankori22/Leetcode_practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Muskankori22/Leetcode_practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Muskankori22/Leetcode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muskankori22/Leetcode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
 ## Sorting
 |  |
 | ------- |
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Muskankori22/Leetcode_practice/tree/master/0173-binary-search-tree-iterator) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
