@@ -19,7 +19,7 @@ class Solution {
         inorder(root,list);
         return list.get(k-1);
     }
-    public void inorder(TreeNode root,ArrayList<Integer>list)
+    public void inorder(TreeNode root,List<Integer> list)
     {
         if(root==null)
         {
@@ -27,6 +27,6 @@ class Solution {
         }
         inorder(root.left,list);
         list.add(root.val);
-       inorder(root.right,list);
+        inorder(root.right,list);
     }
 }
