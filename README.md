@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Muskankori22/Leetcode_practice/tree/master/0813-all-paths-from-source-to-target) |
+| [1916-find-center-of-star-graph](https://github.com/Muskankori22/Leetcode_practice/tree/master/1916-find-center-of-star-graph) |
 ## Matrix
 |  |
 | ------- |
