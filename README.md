@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muskankori22/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/Muskankori22/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
 | [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Muskankori22/Leetcode_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Muskankori22/Leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Muskankori22/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Muskankori22/Leetcode_practice/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Muskankori22/Leetcode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Muskankori22/Leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Muskankori22/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muskankori22/Leetcode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -262,6 +265,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Muskankori22/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Muskankori22/Leetcode_practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Muskankori22/Leetcode_practice/tree/master/1036-rotting-oranges) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Muskankori22/Leetcode_practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
