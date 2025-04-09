@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0567-permutation-in-string) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Muskankori22/Leetcode_practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Muskankori22/Leetcode_practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Sliding Window
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Muskankori22/Leetcode_practice/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/Muskankori22/Leetcode_practice/tree/master/0813-all-paths-from-source-to-target) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Muskankori22/Leetcode_practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Muskankori22/Leetcode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Muskankori22/Leetcode_practice/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/Muskankori22/Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0813-all-paths-from-source-to-target](https://github.com/Muskankori22/Leetcode_practice/tree/master/0813-all-paths-from-source-to-target) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Muskankori22/Leetcode_practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Muskankori22/Leetcode_practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1916-find-center-of-star-graph](https://github.com/Muskankori22/Leetcode_practice/tree/master/1916-find-center-of-star-graph) |
 ## Matrix
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Muskankori22/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Muskankori22/Leetcode_practice/tree/master/0399-evaluate-division) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Muskankori22/Leetcode_practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Muskankori22/Leetcode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Shortest Path
 |  |
