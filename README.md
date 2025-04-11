@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Muskankori22/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Muskankori22/Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Muskankori22/Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Muskankori22/Leetcode_practice/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/Muskankori22/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Muskankori22/Leetcode_practice/tree/master/0721-accounts-merge) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Muskankori22/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Muskankori22/Leetcode_practice/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Muskankori22/Leetcode_practice/tree/master/0721-accounts-merge) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Muskankori22/Leetcode_practice/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Data Stream
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -314,4 +319,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Muskankori22/Leetcode_practice/tree/master/0399-evaluate-division) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
