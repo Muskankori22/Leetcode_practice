@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Muskankori22/Leetcode_practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Muskankori22/Leetcode_practice/tree/master/0739-daily-temperatures) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Muskankori22/Leetcode_practice/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1036-rotting-oranges](https://github.com/Muskankori22/Leetcode_practice/tree/master/1036-rotting-oranges) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Muskankori22/Leetcode_practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Muskankori22/Leetcode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -357,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Muskankori22/Leetcode_practice/tree/master/1027-sum-of-even-numbers-after-queries) |
 <!---LeetCode Topics End-->
