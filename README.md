@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Muskankori22/Leetcode_practice/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Muskankori22/Leetcode_practice/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Muskankori22/Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Muskankori22/Leetcode_practice/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0721-accounts-merge](https://github.com/Muskankori22/Leetcode_practice/tree/master/0721-accounts-merge) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -436,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0948-sort-an-array) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
