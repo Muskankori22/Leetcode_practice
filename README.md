@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Muskankori22/Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0567-permutation-in-string) |
+| [0606-construct-string-from-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Muskankori22/Leetcode_practice/tree/master/0692-top-k-frequent-words) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Muskankori22/Leetcode_practice/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Muskankori22/Leetcode_practice/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Muskankori22/Leetcode_practice/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0721-accounts-merge](https://github.com/Muskankori22/Leetcode_practice/tree/master/0721-accounts-merge) |
