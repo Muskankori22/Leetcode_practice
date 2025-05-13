@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Muskankori22/Leetcode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Muskankori22/Leetcode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Muskankori22/Leetcode_practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2388-replace-elements-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Monotonic Stack
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muskankori22/Leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Muskankori22/Leetcode_practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Tree
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-get-watched-videos-by-your-friends](https://github.com/Muskankori22/Leetcode_practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Muskankori22/Leetcode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Muskankori22/Leetcode_practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Data Stream
 |  |
 | ------- |
