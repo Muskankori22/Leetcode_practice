@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Muskankori22/Leetcode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Muskankori22/Leetcode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2388-replace-elements-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Monotonic Stack
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-get-watched-videos-by-your-friends](https://github.com/Muskankori22/Leetcode_practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Muskankori22/Leetcode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2388-replace-elements-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Sliding Window
 |  |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Muskankori22/Leetcode_practice/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [2388-replace-elements-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2388-replace-elements-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
