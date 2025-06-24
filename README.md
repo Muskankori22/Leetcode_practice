@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Muskankori22/Leetcode_practice/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Muskankori22/Leetcode_practice/tree/master/0721-accounts-merge) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1542-consecutive-characters](https://github.com/Muskankori22/Leetcode_practice/tree/master/1542-consecutive-characters) |
 | [2580-circular-sentence](https://github.com/Muskankori22/Leetcode_practice/tree/master/2580-circular-sentence) |
 | [3636-check-balanced-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/3636-check-balanced-string) |
 ## Stack
