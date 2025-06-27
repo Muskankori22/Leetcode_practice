@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Muskankori22/Leetcode_practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Muskankori22/Leetcode_practice/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0948-sort-an-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Muskankori22/Leetcode_practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Muskankori22/Leetcode_practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Muskankori22/Leetcode_practice/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Muskankori22/Leetcode_practice/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Muskankori22/Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0948-sort-an-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Muskankori22/Leetcode_practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Muskankori22/Leetcode_practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Muskankori22/Leetcode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Muskankori22/Leetcode_practice/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Muskankori22/Leetcode_practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Muskankori22/Leetcode_practice/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2388-replace-elements-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2388-replace-elements-in-an-array) |
 ## Prefix Sum
