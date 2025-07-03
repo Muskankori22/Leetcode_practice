@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Muskankori22/Leetcode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Muskankori22/Leetcode_practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2388-replace-elements-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Monotonic Stack
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Radix Sort
 |  |
 | ------- |
