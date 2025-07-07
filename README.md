@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/Muskankori22/Leetcode_practice/tree/master/1542-consecutive-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/Muskankori22/Leetcode_practice/tree/master/2128-reverse-prefix-of-word) |
 | [2580-circular-sentence](https://github.com/Muskankori22/Leetcode_practice/tree/master/2580-circular-sentence) |
+| [3194-find-words-containing-character](https://github.com/Muskankori22/Leetcode_practice/tree/master/3194-find-words-containing-character) |
 | [3636-check-balanced-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Muskankori22/Leetcode_practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2388-replace-elements-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2388-replace-elements-in-an-array) |
+| [3194-find-words-containing-character](https://github.com/Muskankori22/Leetcode_practice/tree/master/3194-find-words-containing-character) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Monotonic Stack
 |  |
