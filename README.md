@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Muskankori22/Leetcode_practice/tree/master/1036-rotting-oranges) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Muskankori22/Leetcode_practice/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muskankori22/Leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Muskankori22/Leetcode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Muskankori22/Leetcode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/Muskankori22/Leetcode_practice/tree/master/0941-sort-array-by-parity) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Muskankori22/Leetcode_practice/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Muskankori22/Leetcode_practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Muskankori22/Leetcode_practice/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Muskankori22/Leetcode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Muskankori22/Leetcode_practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
