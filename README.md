@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Muskankori22/Leetcode_practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2388-replace-elements-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2388-replace-elements-in-an-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3194-find-words-containing-character](https://github.com/Muskankori22/Leetcode_practice/tree/master/3194-find-words-containing-character) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Monotonic Stack
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Muskankori22/Leetcode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Muskankori22/Leetcode_practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Data Stream
 |  |
 | ------- |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Muskankori22/Leetcode_practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muskankori22/Leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Radix Sort
 |  |
 | ------- |
