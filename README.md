@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1542-consecutive-characters](https://github.com/Muskankori22/Leetcode_practice/tree/master/1542-consecutive-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/Muskankori22/Leetcode_practice/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Muskankori22/Leetcode_practice/tree/master/2580-circular-sentence) |
 | [3194-find-words-containing-character](https://github.com/Muskankori22/Leetcode_practice/tree/master/3194-find-words-containing-character) |
 | [3636-check-balanced-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/3636-check-balanced-string) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Muskankori22/Leetcode_practice/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Muskankori22/Leetcode_practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Muskankori22/Leetcode_practice/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2388-replace-elements-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2388-replace-elements-in-an-array) |
+| [2470-removing-stars-from-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
