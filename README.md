@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Muskankori22/Leetcode_practice/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Muskankori22/Leetcode_practice/tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0812-rotate-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Muskankori22/Leetcode_practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1542-consecutive-characters](https://github.com/Muskankori22/Leetcode_practice/tree/master/1542-consecutive-characters) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0812-rotate-string) |
 ## Greedy
 |  |
 | ------- |
