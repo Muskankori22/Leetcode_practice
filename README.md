@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Muskankori22/Leetcode_practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Muskankori22/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Muskankori22/Leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Muskankori22/Leetcode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Muskankori22/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Muskankori22/Leetcode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Muskankori22/Leetcode_practice/tree/master/0162-find-peak-element) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Muskankori22/Leetcode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Muskankori22/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Muskankori22/Leetcode_practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Muskankori22/Leetcode_practice/tree/master/1036-rotting-oranges) |
