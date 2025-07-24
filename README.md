@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Muskankori22/Leetcode_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Muskankori22/Leetcode_practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
