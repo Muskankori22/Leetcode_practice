@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muskankori22/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Muskankori22/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Muskankori22/Leetcode_practice/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Muskankori22/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskankori22/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Muskankori22/Leetcode_practice/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/Muskankori22/Leetcode_practice/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Muskankori22/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Muskankori22/Leetcode_practice/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/Muskankori22/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Muskankori22/Leetcode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Muskankori22/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Muskankori22/Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Muskankori22/Leetcode_practice/tree/master/0721-accounts-merge) |
