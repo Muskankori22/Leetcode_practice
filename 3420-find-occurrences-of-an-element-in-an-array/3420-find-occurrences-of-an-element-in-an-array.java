@@ -1,20 +1,25 @@
 class Solution {
     public int[] occurrencesOfElement(int[] nums, int[] queries, int x) {
-        int len=nums.length;
-        List<Integer> nm = new ArrayList<Integer>();
-        for(int i=0;i<len;i++)
+        int count = 0;
+        List<Integer> li = new ArrayList<>();
+        int ans[] = new int[queries.length];
+        for(int i=0;i<nums.length;i++)
         {
-            if(x==nums[i])
+            if(nums[i]==x)
             {
-                nm.add(i);
+                count++;
+                li.add(i);
             }
         }
-        len=queries.length;
-        int ans[]=new int[len];
-        for(int i=0;i<len;i++)
+        for(int i=0;i<queries.length;i++)
         {
-            int val=queries[i];
-            ans[i] = val > nm.size() ? -1 : nm.get(val-1);
+          if(queries[i]>count){
+            ans[i]=-1;
+          }
+          else 
+          {
+            ans[i]=li.get(queries[i]-1);
+          }
         }
         return ans;
     }
