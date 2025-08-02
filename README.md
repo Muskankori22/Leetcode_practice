@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Muskankori22/Leetcode_practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1542-consecutive-characters](https://github.com/Muskankori22/Leetcode_practice/tree/master/1542-consecutive-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Muskankori22/Leetcode_practice/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Muskankori22/Leetcode_practice/tree/master/2580-circular-sentence) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Radix Sort
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0445-add-two-numbers-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Muskankori22/Leetcode_practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Database
 |  |
