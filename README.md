@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Muskankori22/Leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [1013-fibonacci-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Muskankori22/Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0445-add-two-numbers-ii) |
+| [1013-fibonacci-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Muskankori22/Leetcode_practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Database
@@ -588,4 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/Muskankori22/Leetcode_practice/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/Muskankori22/Leetcode_practice/tree/master/1948-rearrange-products-table) |
 | [3816-dna-pattern-recognition](https://github.com/Muskankori22/Leetcode_practice/tree/master/3816-dna-pattern-recognition) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
