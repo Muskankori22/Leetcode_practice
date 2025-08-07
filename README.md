@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Muskankori22/Leetcode_practice/tree/master/0937-online-stock-span) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Muskankori22/Leetcode_practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Muskankori22/Leetcode_practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [2128-reverse-prefix-of-word](https://github.com/Muskankori22/Leetcode_practice/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2470-removing-stars-from-a-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-get-watched-videos-by-your-friends](https://github.com/Muskankori22/Leetcode_practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Muskankori22/Leetcode_practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Muskankori22/Leetcode_practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Muskankori22/Leetcode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Muskankori22/Leetcode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Muskankori22/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Muskankori22/Leetcode_practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Muskankori22/Leetcode_practice/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Muskankori22/Leetcode_practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [2388-replace-elements-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
