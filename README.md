@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Muskankori22/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0399-evaluate-division](https://github.com/Muskankori22/Leetcode_practice/tree/master/0399-evaluate-division) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Muskankori22/Leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Muskankori22/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0948-sort-an-array) |
 ## Binary Search Tree
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muskankori22/Leetcode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Muskankori22/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
@@ -452,11 +455,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Muskankori22/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0220-contains-duplicate-iii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Muskankori22/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
 ## Backtracking
 |  |
@@ -519,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Muskankori22/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0948-sort-an-array) |
 ## Simulation
 |  |
@@ -599,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/1013-fibonacci-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Muskankori22/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
