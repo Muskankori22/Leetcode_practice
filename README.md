@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Muskankori22/Leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Muskankori22/Leetcode_practice/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/Muskankori22/Leetcode_practice/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Muskankori22/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Muskankori22/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Muskankori22/Leetcode_practice/tree/master/0242-valid-anagram) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Muskankori22/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muskankori22/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Muskankori22/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Muskankori22/Leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/1013-fibonacci-number) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Muskankori22/Leetcode_practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Muskankori22/Leetcode_practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Muskankori22/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0813-all-paths-from-source-to-target](https://github.com/Muskankori22/Leetcode_practice/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
 |  |
