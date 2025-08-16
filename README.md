@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Muskankori22/Leetcode_practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Muskankori22/Leetcode_practice/tree/master/0739-daily-temperatures) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Muskankori22/Leetcode_practice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Muskankori22/Leetcode_practice/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting
