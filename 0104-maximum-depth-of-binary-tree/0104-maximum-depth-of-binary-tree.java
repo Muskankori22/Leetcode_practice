@@ -19,9 +19,6 @@ class Solution {
         {
             return 0;
         }
-        int leftHt = maxDepth(root.left);
-        int rightHt = maxDepth(root.right);
-        int maxHt = Math.max(leftHt,rightHt)+1;
-        return maxHt;
+        return Math.max(maxDepth(root.left),maxDepth(root.right))+1;
     }
 }
