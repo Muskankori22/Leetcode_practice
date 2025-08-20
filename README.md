@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Muskankori22/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Muskankori22/Leetcode_practice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Muskankori22/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Muskankori22/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muskankori22/Leetcode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Muskankori22/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muskankori22/Leetcode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Muskankori22/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0572-subtree-of-another-tree) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muskankori22/Leetcode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Muskankori22/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/Muskankori22/Leetcode_practice/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Muskankori22/Leetcode_practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Muskankori22/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Muskankori22/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/Muskankori22/Leetcode_practice/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
 |  |
