@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1285-balance-a-binary-search-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Muskankori22/Leetcode_practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Muskankori22/Leetcode_practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1285-balance-a-binary-search-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Muskankori22/Leetcode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Divide and Conquer
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Muskankori22/Leetcode_practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Muskankori22/Leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1285-balance-a-binary-search-tree) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting
@@ -625,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Muskankori22/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
+| [1285-balance-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1285-balance-a-binary-search-tree) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
