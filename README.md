@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Muskankori22/Leetcode_practice/tree/master/0739-daily-temperatures) |
+| [0933-increasing-order-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/Muskankori22/Leetcode_practice/tree/master/0937-online-stock-span) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Muskankori22/Leetcode_practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Muskankori22/Leetcode_practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Muskankori22/Leetcode_practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Muskankori22/Leetcode_practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Muskankori22/Leetcode_practice/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/Muskankori22/Leetcode_practice/tree/master/0813-all-paths-from-source-to-target) |
+| [0933-increasing-order-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Muskankori22/Leetcode_practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1285-balance-a-binary-search-tree) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Muskankori22/Leetcode_practice/tree/master/0729-my-calendar-i) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0933-increasing-order-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0933-increasing-order-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Muskankori22/Leetcode_practice/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Muskankori22/Leetcode_practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
