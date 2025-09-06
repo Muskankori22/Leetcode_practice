@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Muskankori22/Leetcode_practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1542-consecutive-characters](https://github.com/Muskankori22/Leetcode_practice/tree/master/1542-consecutive-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Muskankori22/Leetcode_practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muskankori22/Leetcode_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Muskankori22/Leetcode_practice/tree/master/2128-reverse-prefix-of-word) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Muskankori22/Leetcode_practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Muskankori22/Leetcode_practice/tree/master/1552-build-an-array-with-stack-operations) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Muskankori22/Leetcode_practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muskankori22/Leetcode_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Muskankori22/Leetcode_practice/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
