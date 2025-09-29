@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Muskankori22/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Muskankori22/Leetcode_practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muskankori22/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Muskankori22/Leetcode_practice/tree/master/0118-pascals-triangle) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Muskankori22/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Muskankori22/Leetcode_practice/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Muskankori22/Leetcode_practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Muskankori22/Leetcode_practice/tree/master/0169-majority-element) |
