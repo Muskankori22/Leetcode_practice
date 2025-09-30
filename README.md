@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Muskankori22/Leetcode_practice/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Muskankori22/Leetcode_practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Muskankori22/Leetcode_practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Muskankori22/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Muskankori22/Leetcode_practice/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Muskankori22/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0445-add-two-numbers-ii) |
