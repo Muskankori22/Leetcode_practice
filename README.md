@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Muskankori22/Leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Muskankori22/Leetcode_practice/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Muskankori22/Leetcode_practice/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/Muskankori22/Leetcode_practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Muskankori22/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Muskankori22/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Muskankori22/Leetcode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Muskankori22/Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Muskankori22/Leetcode_practice/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Muskankori22/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Muskankori22/Leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
