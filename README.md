@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Muskankori22/Leetcode_practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Muskankori22/Leetcode_practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2388-replace-elements-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3194-find-words-containing-character](https://github.com/Muskankori22/Leetcode_practice/tree/master/3194-find-words-containing-character) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Muskankori22/Leetcode_practice/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Muskankori22/Leetcode_practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Muskankori22/Leetcode_practice/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Muskankori22/Leetcode_practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muskankori22/Leetcode_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Muskankori22/Leetcode_practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2388-replace-elements-in-an-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Muskankori22/Leetcode_practice/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
