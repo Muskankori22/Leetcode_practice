@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Muskankori22/Leetcode_practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Muskankori22/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Muskankori22/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Muskankori22/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/Muskankori22/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Muskankori22/Leetcode_practice/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Muskankori22/Leetcode_practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Muskankori22/Leetcode_practice/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Muskankori22/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Muskankori22/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/0268-missing-number) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Muskankori22/Leetcode_practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Muskankori22/Leetcode_practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Muskankori22/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Muskankori22/Leetcode_practice/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Muskankori22/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muskankori22/Leetcode_practice/tree/master/0268-missing-number) |
